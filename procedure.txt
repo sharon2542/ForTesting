@@ -1,34 +1,35 @@
-git colon https://github.com/sharon2542/Github-tutorial.git #¤U¸ü»·ºİ¸ê®Æ¨ì¥»¦a¸ê®Æ®w
-git status #¬d¬İedit history
-git add ·s¼W¤§ÀÉ®×¦WºÙ #·s¼WÀÉ®×
-git commit -m"ÀÉ®×µù¸Ñ" #°õ¦æ
-git push #¤W¶Ç¨ì»·ºİ¸ê®Æ§¨
-git branch A #·s¼W¤@­Óbranch 'A'
+git colon https://github.com/sharon2542/Github-tutorial.git #ä¸‹è¼‰é ç«¯è³‡æ–™åˆ°æœ¬åœ°è³‡æ–™åº«
+git status #æŸ¥çœ‹edit history
+git add æ–°å¢ä¹‹æª”æ¡ˆåç¨± #æ–°å¢æª”æ¡ˆ
+git commit -m"æª”æ¡ˆè¨»è§£" #åŸ·è¡Œ
+git push #ä¸Šå‚³åˆ°é ç«¯è³‡æ–™å¤¾
+git branch A #æ–°å¢ä¸€å€‹branch 'A'
+git help --a #æ±‚æ•‘
 
-cd /c/Users/hsiang1025/¸ê®Æ§¨¦WºÙ #¤Á´«¸ê®Æ§¨
+cd /c/Users/hsiang1025/è³‡æ–™å¤¾åç¨± #åˆ‡æ›è³‡æ–™å¤¾
 
 
 
 ############################################################################################
-Á`µ²
-Â²³æ¦AÁ¿¤@¦¸¾Ş§@¹Lµ{
-1.²Ä¤@¦¸ªì©l
-¦bGithub¶}repo
-git clone [clone URL] ¥ı§âcode±qGithub§ì¤U¨Ó
+ç¸½çµ
+ç°¡å–®å†è¬›ä¸€æ¬¡æ“ä½œéç¨‹
+1.ç¬¬ä¸€æ¬¡åˆå§‹
+åœ¨Githubé–‹repo
+git clone [clone URL] å…ˆæŠŠcodeå¾GithubæŠ“ä¸‹ä¾†
 
 2.
-¶i¨ì¸Ó¥Ø¿ı¤¤
-git branch [branch-name] ¥Í¤@­Ó·sbranch
-git checkout [branch-name] ¤Á´«¨ì¦¹branch¤W
+é€²åˆ°è©²ç›®éŒ„ä¸­
+git branch [branch-name] ç”Ÿä¸€å€‹æ–°branch
+git checkout [branch-name] åˆ‡æ›åˆ°æ­¤branchä¸Š
 
 3.
-git status ¬İ­×§ï¤F­ş¨ÇÀÉ®×
-git add [­×§ï¨ìªºÀÉ®×] ¤@­ÓÀÉ¤@­ÓÀÉ¦Û¤v¥[¡A¦]¬°³o¼Ë¥i¥HDouble check¦Û¤v¨ì©³§ï¤F­ş¨ÇÀÉ
-git commit µù¸Ñ­n¼g²M·¡ §¹¦¨¤@­Ó¤p¥\¯à´N­ncommit¤@¦¸
-­«½Æ¨BÆJ3.ª½¨ì git status Åã¥Ü¨S¦³¥ô¦ó­×§ï¹LªºÀÉ®×
+git status çœ‹ä¿®æ”¹äº†å“ªäº›æª”æ¡ˆ
+git add [ä¿®æ”¹åˆ°çš„æª”æ¡ˆ] ä¸€å€‹æª”ä¸€å€‹æª”è‡ªå·±åŠ ï¼Œå› ç‚ºé€™æ¨£å¯ä»¥Double checkè‡ªå·±åˆ°åº•æ”¹äº†å“ªäº›æª”
+git commit è¨»è§£è¦å¯«æ¸…æ¥š å®Œæˆä¸€å€‹å°åŠŸèƒ½å°±è¦commitä¸€æ¬¡
+é‡è¤‡æ­¥é©Ÿ3.ç›´åˆ° git status é¡¯ç¤ºæ²’æœ‰ä»»ä½•ä¿®æ”¹éçš„æª”æ¡ˆ
 
 4.
 git checkout master
-git merge [branch-name] ©Mmaster merge°_¨Ó
-git push µM«á±µµÛ¿é¤JGithubªº±b¸¹±K½X
+git merge [branch-name] å’Œmaster mergeèµ·ä¾†
+git push ç„¶å¾Œæ¥è‘—è¼¸å…¥Githubçš„å¸³è™Ÿå¯†ç¢¼
 
