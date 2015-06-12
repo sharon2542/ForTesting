@@ -1,0 +1,34 @@
+git colon https://github.com/sharon2542/Github-tutorial.git #下載遠端資料到本地資料庫
+git status #查看edit history
+git add 新增之檔案名稱 #新增檔案
+git commit -m"檔案註解" #執行
+git push #上傳到遠端資料夾
+git branch A #新增一個branch 'A'
+
+cd /c/Users/hsiang1025/資料夾名稱 #切換資料夾
+
+
+
+############################################################################################
+總結
+簡單再講一次操作過程
+1.第一次初始
+在Github開repo
+git clone [clone URL] 先把code從Github抓下來
+
+2.
+進到該目錄中
+git branch [branch-name] 生一個新branch
+git checkout [branch-name] 切換到此branch上
+
+3.
+git status 看修改了哪些檔案
+git add [修改到的檔案] 一個檔一個檔自己加，因為這樣可以Double check自己到底改了哪些檔
+git commit 註解要寫清楚 完成一個小功能就要commit一次
+重複步驟3.直到 git status 顯示沒有任何修改過的檔案
+
+4.
+git checkout master
+git merge [branch-name] 和master merge起來
+git push 然後接著輸入Github的帳號密碼
+
